@@ -1,0 +1,6 @@
+{
+  "name": "Apex SMC Journal",
+  "description": "SMC Trading Journal with risk locks, position size calculator, daily psychology entries, trade correction engine, and discipline score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
